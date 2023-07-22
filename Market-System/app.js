@@ -12,7 +12,7 @@ $(document).ready(function () {
         } else {
             $("#formulario-1a").prop('action', "../../capa-negocios/backend.php");
             $("#formulario-1a").submit();
-            alert()
+            
         }
     });
     $("#btn-btn-create").click(function () {
